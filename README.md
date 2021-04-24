@@ -36,6 +36,4 @@ C => matrix C or objective coefficients in the problem,
 
 d => vector d or fixed values of linear terms in the problem. 
 
-VariableDef => a vector with three values determining the number of variables from each type. 
-
-
+VariableDef => a vector with three values determining the number of variables from each type ([n_R, n_Z, n_B]). 
